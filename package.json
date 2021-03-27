@@ -1,0 +1,33 @@
+{
+  "name": "phaser-typescript-platformer",
+  "version": "1.0.0",
+  "description": "Platformer game on TypeScript with PhaserJS",
+  "main": "index.js",
+  "dependencies": {
+    "phaser": "^3.54.0",
+    "typescript": "^4.2.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.19.0",
+    "@typescript-eslint/parser": "^4.19.0",
+    "eslint": "^7.23.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bthrsn/phaser-typescript-platformer.git"
+  },
+  "keywords": [
+    "PhaserJS",
+    "Typescript",
+    "Game"
+  ],
+  "author": "mikhail.lhts@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bthrsn/phaser-typescript-platformer/issues"
+  },
+  "homepage": "https://github.com/bthrsn/phaser-typescript-platformer#readme"
+}
